@@ -1,0 +1,12 @@
+{
+  "name": "Sri Lanka Weather Analysis",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "postCreateCommand": "pip install -r requirements.txt",
+  "extensions": [
+    "ms-python.python",
+    "ms-toolsai.jupyter"
+  ],
+  "remoteUser": "vscode"
+}
