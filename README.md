@@ -1,4 +1,4 @@
-# Sri Lanka Weather Prediction - Full Stack Portfolio Project
+# Sri Lanka Weather Prediction 
 
 This project leverages Machine Learning to predict weather patterns in Sri Lanka, wrapped in a modern, premium full-stack web application.
 
